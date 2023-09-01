@@ -1,0 +1,8 @@
+.asl_w_container {
+    max-width: 150px;
+    flex: 0 0 150px;
+}
+
+body {
+    background: red;
+}
